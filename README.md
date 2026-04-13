@@ -22,3 +22,5 @@ This project focuses on front-end development basics like DOM manipulation, even
 3. The first player to get 3 in a row wins.
 4. If all boxes are filled and no one wins, the game ends in a draw.
 5. Use the restart button to play again.
+## 🔗 Live Demo
+👉 https://nought-and-cross-game.netlify.app/
